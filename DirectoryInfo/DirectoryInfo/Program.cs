@@ -114,23 +114,23 @@ namespace DirectoryInfo
 
             //File.Replace(filename, @"C:\DocumentsC#\MovingData\data1.txt", @"C:\DocumentsC#\CopyData\data1.txt");
             //File.SetAttributes(filename, FileAttributes.ReadOnly);
-            Console.WriteLine("Date Time Previous");
-            Console.WriteLine(File.GetCreationTime(filename));
+            // Console.WriteLine("Date Time Previous");
+            // Console.WriteLine(File.GetCreationTime(filename));
             //var a = File.GetCreationTime(filename);
-            Console.WriteLine(File.GetLastWriteTime(filename));
-            Console.WriteLine(File.GetLastAccessTime(filename));
-            Console.WriteLine(File.GetCreationTimeUtc(filename));
+            // Console.WriteLine(File.GetLastWriteTime(filename));
+            // Console.WriteLine(File.GetLastAccessTime(filename));
+            // Console.WriteLine(File.GetCreationTimeUtc(filename));
 
 
-            File.SetCreationTime(filename,DateTime.Now);
-            File.SetLastWriteTime(filename, DateTime.Now);
-            File.SetLastAccessTime(filename, DateTime.Now);
-            File.SetCreationTimeUtc(filename, DateTime.UtcNow);
-            Console.WriteLine("Update date time");
-            Console.WriteLine(File.GetCreationTime(filename));
-            Console.WriteLine(File.GetLastWriteTime(filename));
-            Console.WriteLine(File.GetLastAccessTime(filename));
-            Console.WriteLine(File.GetCreationTimeUtc(filename));
+            // File.SetCreationTime(filename,DateTime.Now);
+            // File.SetLastWriteTime(filename, DateTime.Now);
+            // File.SetLastAccessTime(filename, DateTime.Now);
+            // File.SetCreationTimeUtc(filename, DateTime.UtcNow);
+            // Console.WriteLine("Update date time");
+            // Console.WriteLine(File.GetCreationTime(filename));
+            // Console.WriteLine(File.GetLastWriteTime(filename));
+            // Console.WriteLine(File.GetLastAccessTime(filename));
+            // Console.WriteLine(File.GetCreationTimeUtc(filename));
 
 
 
