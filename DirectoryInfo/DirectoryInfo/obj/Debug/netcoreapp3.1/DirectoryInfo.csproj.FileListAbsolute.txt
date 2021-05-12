@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.exe
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.deps.json
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.dll
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\bin\Debug\netcoreapp3.1\DirectoryInfo.pdb
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.dll
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.pdb
+C:\Users\S S INFOTECH\source\repos\DirectoryInfo\DirectoryInfo\obj\Debug\netcoreapp3.1\DirectoryInfo.genruntimeconfig.cache
